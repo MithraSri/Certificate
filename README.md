@@ -1,2 +1,2 @@
-# Certificate
+# Certificates
 Resume
